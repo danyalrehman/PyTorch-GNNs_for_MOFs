@@ -1,2 +1,4 @@
-# PyTorch-GNNs_for_MOFs
-Graph neural networks (GNNs) for Metal Organic Framework (MOF) design and isotherm prediction
+# GNNs for MOF Performance Prediction 
+Graph neural networks (GNNs) for Metal-Organic Framework (MOF) design and isotherm prediction
+
+Authors: Emily Lin, Danyal Rehman
