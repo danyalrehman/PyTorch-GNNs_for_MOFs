@@ -1,8 +1,8 @@
 import torch
 
-jobPath = "C:/Users/opbir/CGCNN/cgcnn_att_v6/"
+jobPath = "C:/Users/Emily/CGCNN/cgcnn_att_v6/"
 jobName = "trainCGCNN_test"
-dataPath = "C:/Users/opbir/CGCNN/cgcnn_att_v6/"
+dataPath = "C:/Users/Emily/CGCNN/cgcnn_att_v6/"
 disable_checkpt = "store_true"
 fp64 = "store_true"
 run_dataProcess = False
